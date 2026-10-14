@@ -1,10 +1,10 @@
 # Classic-ColorChecker
 
 Big Classic-ColorChecker
-<img width="849" height="482" alt="image" src="https://github.com/user-attachments/assets/21dfc38b-0d77-4743-bbc9-aceaa0aabfbb" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/21dfc38b-0d77-4743-bbc9-aceaa0aabfbb" />
 
 Small Classic-ColorChecker board 
-<img width="1277" height="919" alt="image" src="https://github.com/user-attachments/assets/ee8f48fb-478c-41b0-8223-6223a3c42e79" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/ee8f48fb-478c-41b0-8223-6223a3c42e79" />
 
 ### ColorChecker Spectral Reflectance Evaluation
 
